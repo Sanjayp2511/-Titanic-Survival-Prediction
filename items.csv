@@ -1,0 +1,121 @@
+item_id,item_name,category,subcategory,sku,brand,unit_price,cost_price,quantity_in_stock,reorder_level,unit_of_measure,weight_kg,supplier,warehouse_location,status
+ITM001,Wireless Bluetooth Headphones,Electronics,Audio,SKU-E001,SoundMax,2999.00,1800.00,45,10,Piece,0.35,TechSupply Co,A1-S1,Active
+ITM002,USB-C Charging Cable 2m,Electronics,Accessories,SKU-E002,CablePro,499.00,200.00,200,50,Piece,0.12,TechSupply Co,A1-S2,Active
+ITM003,Mechanical Keyboard,Electronics,Peripherals,SKU-E003,KeyMaster,4500.00,2700.00,30,8,Piece,0.95,TechSupply Co,A1-S3,Active
+ITM004,Wireless Mouse,Electronics,Peripherals,SKU-E004,ClickPro,1299.00,700.00,60,15,Piece,0.18,TechSupply Co,A1-S4,Active
+ITM005,27-inch Monitor,Electronics,Displays,SKU-E005,ViewTech,18999.00,12000.00,15,5,Piece,4.20,DisplayWorld,B1-S1,Active
+ITM006,Laptop Stand,Electronics,Accessories,SKU-E006,DeskMate,899.00,450.00,80,20,Piece,0.55,OfficeGear,B1-S2,Active
+ITM007,Webcam HD 1080p,Electronics,Peripherals,SKU-E007,VisionCam,2199.00,1300.00,40,10,Piece,0.22,TechSupply Co,B1-S3,Active
+ITM008,HDMI Cable 3m,Electronics,Accessories,SKU-E008,CablePro,699.00,300.00,150,40,Piece,0.20,TechSupply Co,B1-S4,Active
+ITM009,Portable SSD 1TB,Electronics,Storage,SKU-E009,DataVault,6999.00,4200.00,25,8,Piece,0.08,StorePro,C1-S1,Active
+ITM010,USB Hub 7-Port,Electronics,Accessories,SKU-E010,HubMax,1499.00,800.00,55,15,Piece,0.14,TechSupply Co,C1-S2,Active
+ITM011,Noise Cancelling Earbuds,Electronics,Audio,SKU-E011,SoundMax,3499.00,2000.00,35,10,Piece,0.06,TechSupply Co,C1-S3,Active
+ITM012,Smart Speaker,Electronics,Audio,SKU-E012,EchoTech,3999.00,2400.00,20,6,Piece,0.75,TechSupply Co,C1-S4,Active
+ITM013,Gaming Controller,Electronics,Gaming,SKU-E013,GameZone,2799.00,1600.00,28,8,Piece,0.28,GameSupply,D1-S1,Active
+ITM014,Graphics Tablet,Electronics,Peripherals,SKU-E014,DrawPro,8999.00,5500.00,12,4,Piece,0.65,TechSupply Co,D1-S2,Active
+ITM015,Desk Lamp LED,Electronics,Lighting,SKU-E015,BrightDesk,1199.00,600.00,70,20,Piece,0.45,OfficeGear,D1-S3,Active
+ITM016,A4 Copier Paper 500 Sheets,Stationery,Paper,SKU-S001,PaperPlus,299.00,150.00,500,100,Ream,2.50,StationeryHub,E1-S1,Active
+ITM017,Ballpoint Pen Box (12 pcs),Stationery,Writing,SKU-S002,PenPro,199.00,90.00,300,80,Box,0.15,StationeryHub,E1-S2,Active
+ITM018,Sticky Notes 3x3,Stationery,Paper,SKU-S003,NoteIt,99.00,45.00,400,100,Pack,0.08,StationeryHub,E1-S3,Active
+ITM019,Stapler Heavy Duty,Stationery,Tools,SKU-S004,BindIt,549.00,280.00,60,15,Piece,0.42,StationeryHub,E1-S4,Active
+ITM020,File Folders A4 (10 pcs),Stationery,Filing,SKU-S005,FileMate,149.00,70.00,250,60,Pack,0.30,StationeryHub,F1-S1,Active
+ITM021,Whiteboard Marker Set,Stationery,Writing,SKU-S006,MarkIt,299.00,140.00,180,50,Set,0.12,StationeryHub,F1-S2,Active
+ITM022,Scissors Office,Stationery,Tools,SKU-S007,CutPro,149.00,65.00,120,30,Piece,0.08,StationeryHub,F1-S3,Active
+ITM023,Calculator Scientific,Stationery,Tools,SKU-S008,CalcMate,799.00,420.00,45,12,Piece,0.18,StationeryHub,F1-S4,Active
+ITM024,Highlighter Set 6 Colors,Stationery,Writing,SKU-S009,ColorMark,249.00,110.00,200,50,Set,0.10,StationeryHub,G1-S1,Active
+ITM025,Rubber Stamp Ink Pad,Stationery,Tools,SKU-S010,StampPro,199.00,90.00,80,20,Piece,0.07,StationeryHub,G1-S2,Active
+ITM026,Ergonomic Office Chair,Furniture,Seating,SKU-F001,ComfortSeat,12999.00,8000.00,20,5,Piece,12.00,FurniturePro,H1-S1,Active
+ITM027,Standing Desk Adjustable,Furniture,Desks,SKU-F002,DeskRise,24999.00,15000.00,10,3,Piece,25.00,FurniturePro,H1-S2,Active
+ITM028,3-Drawer Filing Cabinet,Furniture,Storage,SKU-F003,StoreSafe,8999.00,5500.00,12,4,Piece,18.00,FurniturePro,H1-S3,Active
+ITM029,Bookshelf 5-Tier,Furniture,Storage,SKU-F004,ShelfMate,6499.00,3800.00,15,4,Piece,15.00,FurniturePro,H1-S4,Active
+ITM030,Whiteboard 90x120cm,Furniture,Display,SKU-F005,BoardPro,4999.00,2800.00,18,5,Piece,5.50,FurniturePro,I1-S1,Active
+ITM031,Meeting Table 6-Seater,Furniture,Tables,SKU-F006,TablePro,32999.00,20000.00,5,2,Piece,45.00,FurniturePro,I1-S2,Active
+ITM032,Visitor Chair,Furniture,Seating,SKU-F007,ComfortSeat,3999.00,2200.00,25,8,Piece,5.00,FurniturePro,I1-S3,Active
+ITM033,Monitor Arm Dual,Furniture,Accessories,SKU-F008,DeskMate,3499.00,1900.00,22,6,Piece,2.10,FurniturePro,I1-S4,Active
+ITM034,Cable Management Box,Furniture,Accessories,SKU-F009,NeatDesk,699.00,350.00,60,15,Piece,0.40,FurniturePro,J1-S1,Active
+ITM035,Locker 4-Door,Furniture,Storage,SKU-F010,LockSafe,9999.00,6000.00,8,3,Piece,22.00,FurniturePro,J1-S2,Active
+ITM036,Hand Sanitizer 500ml,Hygiene,Sanitization,SKU-H001,CleanPlus,299.00,130.00,300,80,Bottle,0.52,HygieneFirst,K1-S1,Active
+ITM037,Tissue Box 200 Sheets,Hygiene,Paper Products,SKU-H002,SoftCare,149.00,65.00,400,100,Box,0.22,HygieneFirst,K1-S2,Active
+ITM038,Floor Cleaner 1L,Hygiene,Cleaning,SKU-H003,CleanPro,249.00,110.00,200,60,Bottle,1.05,HygieneFirst,K1-S3,Active
+ITM039,Garbage Bags 30L (50 pcs),Hygiene,Waste Management,SKU-H004,WasteCare,199.00,85.00,250,70,Pack,0.35,HygieneFirst,K1-S4,Active
+ITM040,Toilet Paper Roll (12 pcs),Hygiene,Paper Products,SKU-H005,SoftCare,349.00,160.00,300,80,Pack,1.20,HygieneFirst,L1-S1,Active
+ITM041,Disinfectant Spray 400ml,Hygiene,Sanitization,SKU-H006,CleanPlus,399.00,180.00,180,50,Bottle,0.45,HygieneFirst,L1-S2,Active
+ITM042,Mop with Bucket Set,Hygiene,Cleaning,SKU-H007,CleanPro,999.00,520.00,30,8,Set,1.80,HygieneFirst,L1-S3,Active
+ITM043,Air Freshener 300ml,Hygiene,Fragrance,SKU-H008,FreshAir,199.00,90.00,200,50,Bottle,0.32,HygieneFirst,L1-S4,Active
+ITM044,Dish Wash Liquid 500ml,Hygiene,Cleaning,SKU-H009,CleanPro,149.00,65.00,250,70,Bottle,0.53,HygieneFirst,M1-S1,Active
+ITM045,Gloves Latex (100 pcs),Hygiene,Safety,SKU-H010,SafeGlove,499.00,240.00,150,40,Box,0.45,HygieneFirst,M1-S2,Active
+ITM046,Instant Coffee 200g,Pantry,Beverages,SKU-P001,Brew360,499.00,250.00,120,30,Jar,0.22,PantrySupply,N1-S1,Active
+ITM047,Green Tea Bags (100 pcs),Pantry,Beverages,SKU-P002,TeaLeaf,299.00,140.00,150,40,Box,0.12,PantrySupply,N1-S2,Active
+ITM048,Sugar 1kg,Pantry,Ingredients,SKU-P003,SweetFarm,99.00,45.00,200,60,Pack,1.02,PantrySupply,N1-S3,Active
+ITM049,Whole Milk 1L,Pantry,Dairy,SKU-P004,DairyFresh,89.00,42.00,100,30,Carton,1.05,PantrySupply,N1-S4,Perishable
+ITM050,Biscuits Assorted 400g,Pantry,Snacks,SKU-P005,CrunchBite,249.00,120.00,180,50,Pack,0.42,PantrySupply,O1-S1,Active
+ITM051,Mineral Water 1L (12 pcs),Pantry,Beverages,SKU-P006,AquaPure,299.00,140.00,200,60,Case,12.50,PantrySupply,O1-S2,Active
+ITM052,Paper Cups 200ml (50 pcs),Pantry,Disposables,SKU-P007,DispoServe,199.00,90.00,300,80,Pack,0.18,PantrySupply,O1-S3,Active
+ITM053,Plastic Spoons (100 pcs),Pantry,Disposables,SKU-P008,DispoServe,149.00,65.00,250,70,Pack,0.12,PantrySupply,O1-S4,Active
+ITM054,Creamer Sachet Box (100 pcs),Pantry,Beverages,SKU-P009,CreamPro,399.00,190.00,160,45,Box,0.50,PantrySupply,P1-S1,Active
+ITM055,Microwave Popcorn (6 pcs),Pantry,Snacks,SKU-P010,PopCorn,299.00,140.00,120,35,Pack,0.54,PantrySupply,P1-S2,Active
+ITM056,Printer Toner Black,IT Supplies,Printing,SKU-IT001,PrintMax,3499.00,2000.00,30,8,Piece,0.65,ITSupplyHub,Q1-S1,Active
+ITM057,Printer Toner Color Set,IT Supplies,Printing,SKU-IT002,PrintMax,7999.00,4800.00,20,6,Set,0.80,ITSupplyHub,Q1-S2,Active
+ITM058,A4 Photo Paper (20 sheets),IT Supplies,Printing,SKU-IT003,PhotoPrint,299.00,140.00,150,40,Pack,0.25,ITSupplyHub,Q1-S3,Active
+ITM059,LAN Cable Cat6 5m,IT Supplies,Networking,SKU-IT004,NetPro,399.00,190.00,100,25,Piece,0.30,ITSupplyHub,Q1-S4,Active
+ITM060,Network Switch 8-Port,IT Supplies,Networking,SKU-IT005,NetSwitch,2999.00,1700.00,15,4,Piece,0.80,ITSupplyHub,R1-S1,Active
+ITM061,Power Strip 6-Outlet,IT Supplies,Power,SKU-IT006,PowerPlus,699.00,350.00,80,20,Piece,0.55,ITSupplyHub,R1-S2,Active
+ITM062,UPS 600VA,IT Supplies,Power,SKU-IT007,PowerSafe,5999.00,3600.00,12,4,Piece,5.20,ITSupplyHub,R1-S3,Active
+ITM063,Mouse Pad XL,IT Supplies,Accessories,SKU-IT008,DeskMate,499.00,230.00,90,25,Piece,0.28,ITSupplyHub,R1-S4,Active
+ITM064,Screen Cleaning Kit,IT Supplies,Accessories,SKU-IT009,CleanTech,249.00,110.00,120,30,Kit,0.15,ITSupplyHub,S1-S1,Active
+ITM065,Thermal Paste 5g,IT Supplies,Accessories,SKU-IT010,TechCare,299.00,140.00,60,15,Tube,0.02,ITSupplyHub,S1-S2,Active
+ITM066,Safety Helmet,Safety,PPE,SKU-SF001,SafeGuard,899.00,460.00,50,15,Piece,0.42,SafetyFirst,T1-S1,Active
+ITM067,Safety Vest High-Vis,Safety,PPE,SKU-SF002,SafeGuard,599.00,290.00,60,18,Piece,0.20,SafetyFirst,T1-S2,Active
+ITM068,Safety Goggles,Safety,PPE,SKU-SF003,SafeGuard,499.00,240.00,70,20,Piece,0.08,SafetyFirst,T1-S3,Active
+ITM069,Ear Plugs (100 pairs),Safety,PPE,SKU-SF004,SafeGuard,299.00,140.00,100,30,Box,0.25,SafetyFirst,T1-S4,Active
+ITM070,First Aid Kit Standard,Safety,Medical,SKU-SF005,MediCare,1499.00,800.00,25,8,Kit,1.20,SafetyFirst,U1-S1,Active
+ITM071,Fire Extinguisher 2kg,Safety,Fire Safety,SKU-SF006,FireSafe,2499.00,1400.00,15,5,Piece,3.50,SafetyFirst,U1-S2,Active
+ITM072,Safety Boots Size 42,Safety,PPE,SKU-SF007,BootSafe,2999.00,1700.00,20,6,Pair,1.80,SafetyFirst,U1-S3,Active
+ITM073,Hard Hat Lamp,Safety,PPE,SKU-SF008,SafeGuard,799.00,420.00,35,10,Piece,0.15,SafetyFirst,U1-S4,Active
+ITM074,Safety Harness Full Body,Safety,Fall Protection,SKU-SF009,FallStop,4999.00,2900.00,10,3,Piece,2.10,SafetyFirst,V1-S1,Active
+ITM075,Warning Tape 50m,Safety,Signage,SKU-SF010,SafeSign,299.00,130.00,80,20,Roll,0.35,SafetyFirst,V1-S2,Active
+ITM076,Spiral Notebook A5,Stationery,Notebooks,SKU-S011,NoteIt,149.00,65.00,350,90,Piece,0.18,StationeryHub,V1-S3,Active
+ITM077,Whiteboard Eraser,Stationery,Tools,SKU-S012,CleanBoard,99.00,45.00,200,55,Piece,0.05,StationeryHub,V1-S4,Active
+ITM078,Stamp Pad Blue,Stationery,Tools,SKU-S013,StampPro,149.00,65.00,90,25,Piece,0.06,StationeryHub,W1-S1,Active
+ITM079,Correction Fluid 20ml,Stationery,Writing,SKU-S014,CorrectPro,79.00,35.00,200,55,Bottle,0.03,StationeryHub,W1-S2,Active
+ITM080,Index Dividers A4 (10 pcs),Stationery,Filing,SKU-S015,FileMate,129.00,55.00,180,50,Set,0.08,StationeryHub,W1-S3,Active
+ITM081,Label Stickers A4 (10 sheets),Stationery,Labels,SKU-S016,LabelPro,199.00,90.00,200,55,Pack,0.08,StationeryHub,W1-S4,Active
+ITM082,Binding Clips 25mm (12 pcs),Stationery,Tools,SKU-S017,BindIt,99.00,42.00,300,80,Box,0.12,StationeryHub,X1-S1,Active
+ITM083,Envelope C4 (25 pcs),Stationery,Mailing,SKU-S018,MailPro,149.00,65.00,250,70,Pack,0.20,StationeryHub,X1-S2,Active
+ITM084,Document Tray 3-Tier,Stationery,Filing,SKU-S019,FileMate,699.00,360.00,55,15,Piece,0.65,StationeryHub,X1-S3,Active
+ITM085,Pen Holder Mesh,Stationery,Desktop,SKU-S020,DeskMate,349.00,160.00,80,22,Piece,0.22,StationeryHub,X1-S4,Active
+ITM086,Extension Cord 5m 3-Socket,Electrical,Power,SKU-EL001,PowerPlus,799.00,420.00,70,18,Piece,0.60,ElectroHub,Y1-S1,Active
+ITM087,LED Bulb 9W (Pack of 4),Electrical,Lighting,SKU-EL002,BrightLight,399.00,190.00,150,40,Pack,0.36,ElectroHub,Y1-S2,Active
+ITM088,AA Battery (Pack of 12),Electrical,Batteries,SKU-EL003,PowerCell,299.00,135.00,200,60,Pack,0.24,ElectroHub,Y1-S3,Active
+ITM089,AAA Battery (Pack of 12),Electrical,Batteries,SKU-EL004,PowerCell,299.00,135.00,200,60,Pack,0.18,ElectroHub,Y1-S4,Active
+ITM090,Surge Protector 4-Port,Electrical,Power,SKU-EL005,PowerSafe,1299.00,700.00,50,14,Piece,0.48,ElectroHub,Z1-S1,Active
+ITM091,Wall Clock Office,General,Decor,SKU-G001,TimePro,699.00,360.00,30,8,Piece,0.55,GeneralStore,Z1-S2,Active
+ITM092,Umbrella Compact,General,Personal,SKU-G002,DryShield,599.00,300.00,45,12,Piece,0.35,GeneralStore,Z1-S3,Active
+ITM093,Lunch Box Stainless,General,Personal,SKU-G003,EatFresh,899.00,460.00,40,10,Piece,0.55,GeneralStore,Z1-S4,Active
+ITM094,Steel Water Bottle 750ml,General,Personal,SKU-G004,AquaSteel,799.00,400.00,55,15,Piece,0.38,GeneralStore,AA1-S1,Active
+ITM095,Padlock with Key,General,Security,SKU-G005,LockSafe,499.00,250.00,60,16,Piece,0.22,GeneralStore,AA1-S2,Active
+ITM096,Tape Dispenser + 2 Rolls,Stationery,Tools,SKU-S021,TapePro,349.00,165.00,75,20,Set,0.30,StationeryHub,AA1-S3,Active
+ITM097,Bubble Wrap Roll 50m,Packaging,Materials,SKU-PK001,PackSafe,599.00,300.00,60,15,Roll,1.20,PackagingPro,AA1-S4,Active
+ITM098,Cardboard Box Medium,Packaging,Boxes,SKU-PK002,BoxMate,99.00,42.00,500,120,Piece,0.45,PackagingPro,AB1-S1,Active
+ITM099,Stretch Wrap Film 500g,Packaging,Materials,SKU-PK003,PackSafe,499.00,240.00,80,22,Roll,0.52,PackagingPro,AB1-S2,Active
+ITM100,Packing Tape 48mm x 50m,Packaging,Materials,SKU-PK004,TapePro,199.00,90.00,200,55,Roll,0.40,PackagingPro,AB1-S3,Active
+ITM101,Cable Ties 200mm (100 pcs),General,Tools,SKU-G006,TiePro,199.00,88.00,180,50,Pack,0.20,GeneralStore,AB1-S4,Active
+ITM102,Measuring Tape 5m,General,Tools,SKU-G007,MeasurePro,299.00,140.00,65,18,Piece,0.12,GeneralStore,AC1-S1,Active
+ITM103,Screwdriver Set (8 pcs),General,Tools,SKU-G008,ToolMaster,799.00,420.00,40,10,Set,0.55,GeneralStore,AC1-S2,Active
+ITM104,Zip Lock Bags A4 (50 pcs),Packaging,Materials,SKU-PK005,PackSafe,249.00,110.00,200,55,Pack,0.18,PackagingPro,AC1-S3,Active
+ITM105,Whiteboard Marker Refill Ink,Stationery,Writing,SKU-S022,MarkIt,149.00,65.00,120,35,Bottle,0.08,StationeryHub,AC1-S4,Active
+ITM106,Visitor Register Book,Stationery,Notebooks,SKU-S023,NoteIt,299.00,140.00,50,14,Piece,0.45,StationeryHub,AD1-S1,Active
+ITM107,Attendance Register A4,Stationery,Notebooks,SKU-S024,NoteIt,249.00,110.00,55,15,Piece,0.40,StationeryHub,AD1-S2,Active
+ITM108,Self-Inking Stamp,Stationery,Tools,SKU-S025,StampPro,599.00,300.00,40,10,Piece,0.12,StationeryHub,AD1-S3,Active
+ITM109,Document Puncher 2-Hole,Stationery,Tools,SKU-S026,PunchIt,399.00,190.00,50,13,Piece,0.38,StationeryHub,AD1-S4,Active
+ITM110,Lamination Pouch A4 (25 pcs),Stationery,Tools,SKU-S027,LamPro,349.00,165.00,80,22,Pack,0.22,StationeryHub,AE1-S1,Active
+ITM111,Mini Projector Portable,Electronics,Displays,SKU-E016,ViewTech,14999.00,9000.00,8,3,Piece,1.20,DisplayWorld,AE1-S2,Active
+ITM112,Bluetooth Speaker Portable,Electronics,Audio,SKU-E017,SoundMax,2499.00,1400.00,30,8,Piece,0.55,TechSupply Co,AE1-S3,Active
+ITM113,Power Bank 20000mAh,Electronics,Accessories,SKU-E018,ChargePro,3499.00,2000.00,35,10,Piece,0.44,TechSupply Co,AE1-S4,Active
+ITM114,Smart Watch,Electronics,Wearables,SKU-E019,WristTech,9999.00,6200.00,18,5,Piece,0.05,TechSupply Co,AF1-S1,Active
+ITM115,Fingerprint Scanner USB,Electronics,Security,SKU-E020,SecureTech,4999.00,2900.00,15,4,Piece,0.18,TechSupply Co,AF1-S2,Active
+ITM116,CCTV Camera Indoor,Electronics,Security,SKU-E021,SecureTech,5999.00,3500.00,12,4,Piece,0.32,TechSupply Co,AF1-S3,Active
+ITM117,Router Wi-Fi Dual Band,Electronics,Networking,SKU-E022,NetPro,4499.00,2600.00,20,6,Piece,0.45,ITSupplyHub,AF1-S4,Active
+ITM118,Tablet 10-inch,Electronics,Computing,SKU-E023,TechPad,24999.00,16000.00,10,3,Piece,0.55,TechSupply Co,AG1-S1,Active
+ITM119,Keyboard Wireless Slim,Electronics,Peripherals,SKU-E024,KeyMaster,1999.00,1100.00,40,12,Piece,0.48,TechSupply Co,AG1-S2,Active
+ITM120,Laser Pointer Pen,Electronics,Presentation,SKU-E025,PointPro,799.00,400.00,55,15,Piece,0.04,TechSupply Co,AG1-S3,Active
